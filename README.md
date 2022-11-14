@@ -5,10 +5,8 @@
 
 
 개발환경
-
 Eclipse/Oracle/Apache Tomcat/JDK
 
 사용언어
-
 HTML/CSS/JavaScript/Jquery/Java/JSP
-![image](https://user-images.githubusercontent.com/118163523/201619903-7fbe5824-f120-4f66-82e0-a094dca3c875.png)
+
